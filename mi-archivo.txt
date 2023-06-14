@@ -1,1 +1,2 @@
-¡Hola, JavaScript!
+¡Hola freeCodeCamp!
+Estoy aprendiendo Git.
