@@ -1,2 +1,3 @@
 ¡Hola freeCodeCamp!
 Estoy aprendiendo Git.
+Esta es una prueba para aprender a hacer pull request desde una rama diferente a main.
